@@ -1,0 +1,9 @@
+{
+  "name": "twilio-verify-webflow",
+  "version": "1.0.0",
+  "description": "Serverless backend for SMS verification on a Webflow form using Twilio Verify",
+  "main": "index.js",
+  "dependencies": {
+    "twilio": "^5.0.0"
+  }
+}
